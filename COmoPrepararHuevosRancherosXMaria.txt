@@ -1,0 +1,27 @@
+Platillo a la Maria Inicio
+
+Ingredientes Constantes: Huevos, salchica, Cebolla, Tomate, Aceite
+             Variable:   Huevos Rancheros
+                          [0]     [1]     [2]
+DondeDejarMisHuevos Array PlatoA, PLatoB, PLatoC
+
+función: picar if (cuchillo &&  tabla && salchica &&  Cebolla &&  Tomate)
+
+función: vatir (Huevos > 0)
+
+función: prenderFogon if ((tiene gas || es electrica) && (Pago el gas || Pago la luz))
+
+función: colocarAceite if ((tener aceite || mantequilla OR agua) AND cebolla){
+			prenderFogon 
+			}
+
+Función: prepararHuevos{
+			vatir 
+			picar 
+			colocarAceite 
+			
+			funcion: servirHuevos {
+				DondeDejarMisHuevos[0] 	
+				}
+
+			}
